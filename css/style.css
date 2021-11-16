@@ -1,0 +1,38 @@
+.wrapper {
+    
+    width: 43rem;
+    height: 20rem;
+    border: solid 3px black;
+    padding: 2rem;
+    background-color: rgb(132, 182, 165);
+}
+
+.user, .user1 {
+    width: 100px;
+    height: 25px;
+    border: solid 1px black;
+}
+
+h4 {
+    margin: 1rem;
+    width: 25px;
+    height: 25px;
+}
+
+.flex {
+    display: flex;
+}
+
+.flexa {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+h1:hover{
+    color: blue;
+}
+
+h3{
+    background-color: white;
+    justify-self: center;
+}
